@@ -15,7 +15,7 @@ import android.widget.Toast;
 
 
 public class MainActivity extends AppCompatActivity {
-//useless comment
+
     private final ActivityResultLauncher<String> requestPermissionLauncher =
             registerForActivityResult(new ActivityResultContracts.RequestPermission(), isGranted -> {
                 if (!isGranted) {

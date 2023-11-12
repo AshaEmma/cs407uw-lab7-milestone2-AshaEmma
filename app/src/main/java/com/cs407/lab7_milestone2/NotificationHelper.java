@@ -17,7 +17,7 @@ import android.Manifest;
 import java.util.ArrayList;
 
 public class NotificationHelper {
-//Useless comment
+
     private static final NotificationHelper INSTANCE = new NotificationHelper();
 
     private NotificationHelper(){}

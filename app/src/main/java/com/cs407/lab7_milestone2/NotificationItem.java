@@ -5,7 +5,7 @@ public class NotificationItem {
     private String sender = null;
     private String message = null;
     private int id = -1;
-//useless comment
+
     public NotificationItem(String sender, String message, int id){
         this.sender = sender;
         this.message = message;

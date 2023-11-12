@@ -9,7 +9,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Toast;
 
-//useless comment
+
 
 public class ReplyReceiver extends BroadcastReceiver {
 
