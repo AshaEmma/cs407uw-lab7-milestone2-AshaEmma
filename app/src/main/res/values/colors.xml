@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="trans_spring_green">#BC80EE8E</color>
+    <color name="trans_grey_spring">#BE8FD197</color>
+    <color name="red_lavender">#D18FC9</color>
+    <color name="trans_grey_lavender">#BCC4B1C2</color>
+    <color name="trans_sage">#BCB1C4B3</color>
+    <color name="deep_sage">#A8A9B7AB</color>
+    <color name="trans_clear_sage">#7AB1C4B3</color>
+</resources>
